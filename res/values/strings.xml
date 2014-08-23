@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">homework</string>
+    <string name="addMenu">添加</string>
+
+    <string name="student_list">计算机学院同学名单</string>
+    <string name="add">添加</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    
+    <string name="stu_name">姓名</string>
+    <string name="stu_sex">性别</string>
+    <string name="stu_number">学号</string>
+    <string name="stu_signature">签名</string>
+
+    <string name="input_name">请输入姓名......</string>
+    <string name="input_sex">请输入性别......</string>
+    <string name="input_number">请输入学号......</string>
+    <string name="input_signature">请输入签名......</string>
+    
+</resources>
